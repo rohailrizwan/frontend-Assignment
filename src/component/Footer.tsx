@@ -1,4 +1,4 @@
-import React from 'react'
+
 import tiktok from '../assets/images/tiktok.svg'
 import instagram from '../assets/images/insta.svg'
 import snapchat from '../assets/images/snap.png'

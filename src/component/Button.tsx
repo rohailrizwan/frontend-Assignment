@@ -1,4 +1,4 @@
-import React, { type ReactNode } from 'react';
+import React from 'react';
 import defaultBg from "../assets/images/buttonbg.png"; // default background image
 
 interface ButtonProps {

@@ -1,4 +1,4 @@
-import React from 'react';
+
 import arrowRight from '../assets/images/arrowRight.png'
 import Container from './container';
 import defaultBg from "../assets/images/buttonbg.png";
